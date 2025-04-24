@@ -1,4 +1,3 @@
-```markdown
 # react-supabase-crypto 📊
 
 A sleek and modern web application built with React and Supabase to rank cryptocurrencies based on user-submitted 24-hour trading volumes.
@@ -135,9 +134,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## 📬 Contact
 
 - **GitHub**: [@Girma35](https://github.com/Girma35)
-- **LinkedIn**: [Your LinkedIn Profile](#)
-
----
-
-_Thanks for checking out this project! Show some ❤️ by starring the repo._
-```
