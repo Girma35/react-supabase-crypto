@@ -17,6 +17,9 @@ A sleek and modern web application built with React and Supabase to rank cryptoc
 
 ## 📝 Overview
 
+![image](https://github.com/user-attachments/assets/2a67eedb-5477-4e5c-90e2-ee317d61dd70)
+
+
 **react-supabase-crypto** is a simple yet powerful application that allows users to submit cryptocurrency names and their 24-hour trading volumes. The data is stored in a Supabase database and displayed in a clean, responsive UI.
 
 ### 🔧 Key Technologies:
