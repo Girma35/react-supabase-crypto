@@ -53,3 +53,4 @@ export default tseslint.config({
 })
 ```
 # react-supabase-crypto
+# react-supabase-crypto
